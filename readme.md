@@ -1,5 +1,7 @@
 # **Projeto de Inteligência Artificial - Aprendizado de Máquina**
 Este é um projeto de aprendizado de máquina desenvolvido para a disciplina de Inteligência Artificial. O projeto utiliza a linguagem Python e o ambiente Jupyter Notebook para implementar e executar algoritmos de aprendizado de máquina.
+O dataset utilizado no projeto foi consumido do kaggle
+https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/code?datasetId=1120859
 
 ## Configuração do Ambiente
 Para executar este projeto, você precisará configurar o ambiente Python e instalar as dependências necessárias. Siga as etapas abaixo para configurar o ambiente.
